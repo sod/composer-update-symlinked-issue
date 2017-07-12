@@ -1,0 +1,13 @@
+{
+    "name": "avweiss/mylib",
+    "authors": [
+        {
+            "name": "Alexander von Weiss",
+            "email": "alexvonweiss@googlemail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "jms/metadata": "1.3"
+    }
+}

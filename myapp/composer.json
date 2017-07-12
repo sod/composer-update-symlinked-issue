@@ -1,0 +1,19 @@
+{
+    "name": "avweiss/myapp",
+    "authors": [
+        {
+            "name": "Alexander von Weiss",
+            "email": "alexvonweiss@googlemail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../mylib"
+        }
+    ],
+    "require": {
+        "avweiss/mylib": "dev-master"
+    }
+}
