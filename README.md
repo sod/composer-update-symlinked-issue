@@ -3,7 +3,7 @@
 Environment: macOS 10.12.5 / composer 1.4.2
 
 ### Precondition
-If have `mylib` and `myapp`, both in one repository. `myapp` requires `mylib`. It's configured via `repositories => type: "path"` to be symlinked.
+I have `mylib` and `myapp`, both in one repository. `myapp` requires `mylib`. It's configured via `repositories => type: "path"` to be symlinked.
 
 ### What I want to do
 Update a dependency in `mylib`. Then update `mylib` in `myapp`
